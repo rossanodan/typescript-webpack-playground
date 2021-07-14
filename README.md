@@ -19,5 +19,5 @@ node src/main.js
 
 ```
 npm run build
-node src/main.js
+node dist/main.js
 ```
